@@ -1,5 +1,7 @@
 id: P006936
 initial_creation_type: ocr
+created_at: 28/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG18584
   title: བས་མཐའི་སྨྲེ་སྔགས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 86
       base_file: v001.txt
-ebook_metadata:
-  title: བས་མཐའི་སྨྲེ་སྔགས།
-  author: ''
-  sku: P006936
-  cover: cover.jpg
-  layers:
-  - pagination
